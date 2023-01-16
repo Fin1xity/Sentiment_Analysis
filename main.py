@@ -1,4 +1,5 @@
 import speech_recognition 
+import numpy 
 import pyttsx3
 import pyaudio
 from textblob import TextBlob
